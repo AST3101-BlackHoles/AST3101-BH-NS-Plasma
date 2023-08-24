@@ -53,16 +53,20 @@ Lecturers will be available during Office Hours once per week and may be contact
 
 **TIME AND LOCATION TBD**
 
-| date        | topic                                                    | speaker |
+| date        | topic                                                    | Notes   |
 |-------------|----------------------------------------------------------|---------|
 | 27 Oct 2023 | Special and General Relativity                           | Reed?   |
 |             | Black Hole metrics and phenomenology                     | Reed?   |
+|             | [Homework 1](homework-1.md) assigned                     |         |
 |  3 Nov 2023 | Neutron Star structure and the Equation of State         | Reed?   |
 |             | Electromagnetic signals from NSs and NS mergers          | Reed?   |
+|             | [Homework 1](homework-1.md) due                          | 20% of grade? |
+|             | [Homework 2](homework-2.md) assigned                     |         |
 | 10 Nov 2023 | Magnetohydrodynamics and Plasma Physics	                 | Bart?   |
 |             | Electrodynamics of Magnetospheres                        | Bart?   |
 | 17 Nov 2023 | Pulsars and Magnetars                                    | Bart?   |
 |             | Quantum Electrodynamics and Pair Production              | Bart?   |
+|             | [Homework 2](homework-2.md) due                          | 20% of grade? |
 | 24 Nov 2023 | Jets                                                     | Bart?   |
 |             | Accretion Disks, Coronae, and Active Galactic Nuclei     | Bart?   |
 |  1 Dec 2023 | Computational Magnetohydrodynamics                       | Bart?   |
