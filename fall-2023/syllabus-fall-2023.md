@@ -55,26 +55,26 @@ Lecturers will be available during Office Hours once per week and may be contact
 
 | date        | topic                                                    | speaker |
 |-------------|----------------------------------------------------------|---------|
-| 20 Oct 2023 | Special and General Relativity                           | Reed?   |
+| 27 Oct 2023 | Special and General Relativity                           | Reed?   |
 |             | Black Hole metrics and phenomenology                     | Reed?   |
 |             | Homework 1 assigned                                      |         |
-| 27 Oct 2023 | Neutron Star structure and the Equation of State         | Reed?   |
+|  3 Nov 2023 | Neutron Star structure and the Equation of State         | Reed?   |
 |             | Magnetohydrodynamics and Plasma Physics	                 | Bart?   |
 |             | Homework 1 due                                           |         |
 |             | Homework 2 assigned                                      |         |
-|  3 Nov 2023 | Electrodynamics of Magnetospheres                        | Bart?   |
+| 10 Nov 2023 | Electrodynamics of Magnetospheres                        | Bart?   |
 |             | Quantum Electrodynamics and Pair Production              | Bart?   |
 |             | Homework 2 due                                           |         |
 |             | Homework 3 assigned                                      |         |
-| 10 Nov 2023 | Jets                                                     | Bart?   |
+| 17 Nov 2023 | Jets                                                     | Bart?   |
 |             | Accretion Disks and Coronae                              | Bart?   |
 |             | Homework 3 due                                           |         |
 |             | Homework 4 assigned                                      |         |
-| 17 Nov 2023 | Computational Magnetohydrodynamics                       | Bart?   |
+| 24 Nov 2023 | Computational Magnetohydrodynamics                       | Bart?   |
 |             | Particle-in-Cell                                         | Bart?   |
 |             | Homework 4 due                                           |         |
 |             | Homework 5 assigned                                      |         |
-| 24 Nov 2023 | Active Galactic Nuclei                                   | Bart?   |
+|  1 Dec 2023 | Active Galactic Nuclei                                   | Bart?   |
 |             | Pulsars and Magnetars                                    | Reed?   |
 |             | Homework 5 due                                           |         |
 
