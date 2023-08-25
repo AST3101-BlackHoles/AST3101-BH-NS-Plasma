@@ -1,5 +1,7 @@
 # (AST3101) Black Holes and Neutron Stars : Plasma
 
+We will use a [GitHub Classroom](https://classroom.github.com/classrooms/143024058-ast3101-blackholes-fall2023) to manage assignments. To use our [classroom](https://classroom.github.com/classrooms/143024058-ast3101-blackholes-fall2023), you must have a GitHub account. They are free, and you can [sign-up here](https://github.com/signup).
+
 ---
 
 ## Instructors
