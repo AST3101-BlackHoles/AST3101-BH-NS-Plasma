@@ -53,7 +53,7 @@ Lecturers will be available during Office Hours once per week and may be contact
 
 ### Schedule
 
-**TIME AND LOCATION TBD**
+Lectures will be held on **Fridays from 2:10 - 4:00pm in AB113**.
 
 | date        | topic                                                          | Notes   |
 |-------------|----------------------------------------------------------------|---------|
