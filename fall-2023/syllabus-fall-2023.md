@@ -49,7 +49,7 @@ There will be 5 assignments throughout the 6 week course. Each assignment will c
 
 Each assignment will consist of a brief summary of a reading and pen-and-paper calculations. Some assignments will include “computational laboratories,” in which students are expected to write code and plot their results. Partial credit will be given, but late assignments will not be accepted without prior approval.
 
-Lecturers will be available during Office Hours once per week and may be contacted over email. See contact information above.
+Lecturers may be contacted over email. See contact information above.
 
 ### Schedule
 
