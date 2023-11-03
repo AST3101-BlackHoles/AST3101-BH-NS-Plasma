@@ -60,8 +60,8 @@ Lectures will be held on **Fridays from 2:10 - 4:00pm in AB113**.
 | 27 Oct 2023 | Black Hole metrics and phenomenology                           | Reed   |
 |             | [Homework 1](https://classroom.github.com/a/QGrHOjGZ) assigned | |
 |  3 Nov 2023 | Neutron Star structure and the Equation of State               | Reed   |
-|             | [Homework 1](https://classroom.github.com/a/QGrHOjGZ) due      | 25% of grade |
 |             | [Homework 2](https://classroom.github.com/a/g1R7X9_T) assigned | |
+|  8 Nov 2023 | [Homework 1](https://classroom.github.com/a/QGrHOjGZ) due      | 25% of grade |
 | 10 Nov 2023 | Magnetohydrodynamics and Plasma Physics	                       | Bart   |
 |             | Electrodynamics of Magnetospheres                              | Bart   |
 | 17 Nov 2023 | Pulsars and Magnetars                                          | Bart   |
