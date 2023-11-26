@@ -45,7 +45,7 @@ All required readings, including class notes, will be provided. Students will no
 
 ## Course Work and Grading, Key Dates and Deadlines
 
-There will be 5 assignments throughout the 6 week course. Each assignment will count as an equal fraction of students’ final grades.
+There will be 3 assignments throughout the 6 week course. Each assignment will count as a certain fraction of students’ final grades.
 
 Each assignment will consist of a brief summary of a reading and pen-and-paper calculations. Some assignments will include “computational laboratories,” in which students are expected to write code and plot their results. Partial credit will be given, but late assignments will not be accepted without prior approval.
 
@@ -62,15 +62,17 @@ Lectures will be held on **Fridays from 2:10 - 4:00pm in AB113**.
 |  3 Nov 2023 | Neutron Star structure and the Equation of State               | Reed   |
 |             | [Homework 2](https://classroom.github.com/a/g1R7X9_T) assigned | |
 |  8 Nov 2023 | [Homework 1](https://classroom.github.com/a/QGrHOjGZ) due      | 25% of grade |
-| 10 Nov 2023 | Magnetohydrodynamics and Plasma Physics	                       | Bart   |
-|             | Electrodynamics of Magnetospheres                              | Bart   |
-| 17 Nov 2023 | Pulsars and Magnetars                                          | Bart   |
-|             | Quantum Electrodynamics and Pair Production                    | Bart   |
+| 10 Nov 2023 | Particle motion in electromagnetic and gravitational fields    | Bart   |
+|             | Drifts and guiding center and numerical methods                | Bart   |
+|             | [Homework 3]() assigned                                        | |
+| 17 Nov 2023 | Klimontovich and Vlasov equations                              | Bart   |
+|             | Moments of the distribution function                           | Bart   |
 |             | [Homework 2](https://classroom.github.com/a/g1R7X9_T) due      | 25% of grade |
-| 24 Nov 2023 | Jets                                                           | Bart   |
-|             | Accretion Disks, Coronae, and Active Galactic Nuclei           | Bart   |
-|  1 Dec 2023 | Computational Magnetohydrodynamics                             | Bart   |
-|             | Particle-in-Cell                                               | Bart   |
+| 24 Nov 2023 | What is a plasma                                               | Bart   |
+|             | Continuum equations                                            | Bart   |
+|  1 Dec 2023 | Magnetohydrodynamics                                           | Bart   |
+|             | Relativistic magnetohydrodynamics                              | Bart   |
+| 15 Dec 2023 | [Homework 3]() due                                             | 50% of grade |
 
 ---
 
